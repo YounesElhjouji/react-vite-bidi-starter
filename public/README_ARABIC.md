@@ -51,14 +51,14 @@ yarn dev
 
 ```
 /public
-README.md
+README.md # محتوى صفحة "حول"
 /src
-/components
-/i18n
-/pages
-App.tsx
-main.tsx
-index.css
+    /components # واجهة مستخدم قابلة لإعادة الاستخدام (شريط التنقل، التخطيط)
+    /i18n # ملفات اللغات والإعدادات
+    /pages # مكونات المسارات (الرئيسية، حول)
+    App.tsx # إعداد التوجيه الرئيسي
+    main.tsx # نقطة دخول التطبيق واستيراد التنسيقات
+    index.css # إعداد Tailwind وتعريفات التصميم المخصصة وتنسيق Markdown
 ```
 
 ## التخصيص
