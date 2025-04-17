@@ -4,6 +4,8 @@ Tired of setting up internationalization (i18n) and Right-To-Left (RTL) text sup
 
 **Bilingual Starter** is a clean, modern template designed to help you build bilingual (or multilingual) React applications quickly. It comes pre-configured with English and Arabic support, automatic RTL/LTR switching, and a professional look using Tailwind CSS v4.
 
+**[Live Demo](https://bidi-starter.vercel.app/)**
+
 ## Features
 
 - **Fast Development:** Built with Vite, React, and TypeScript.
@@ -79,6 +81,8 @@ This project is licensed under the MIT License.
 هل سئمت من إعداد التدويل (i18n) ودعم النصوص من اليمين إلى اليسار (RTL) في كل مرة تبدأ فيها مشروع React جديد؟ هذا القالب جاهز لتلبية احتياجاتك.
 
 **القالب ثنائي اللغة** هو قالب نظيف وحديث مصمم لمساعدتك في بناء تطبيقات React ثنائية اللغة (أو متعددة اللغات) بسرعة. يأتي مُعدًا مسبقًا لدعم اللغتين الإنجليزية والعربية، مع التبديل التلقائي بين النصوص من اليمين إلى اليسار (RTL) ومن اليسار إلى اليمين (LTR)، ومظهر احترافي باستخدام Tailwind CSS v4.
+
+**[عرض مباشر](https://bidi-starter.vercel.app/)**
 
 ## الميزات
 
