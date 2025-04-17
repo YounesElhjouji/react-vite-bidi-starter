@@ -22,7 +22,7 @@ Follow these steps to get started:
 1. **Clone the repo:**
 
    ```bash
-   git clone <your-repo-url-here> bilingual-starter
+   git clone https://github.com/YounesElhjouji/react-vite-bidi-starter.git bilingual-starter
    cd bilingual-starter
    ```
 
