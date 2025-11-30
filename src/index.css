@@ -3,7 +3,11 @@
 
 @theme {
   --font-cairo: "Cairo", "sans-serif";
-  --color-beige: #f5f5dc;
+  --color-primary: #a2708a;
+  --color-secondary: #bda0bc;
+  --color-background: #f5f7dc;
+  --color-text: #272727;
+  --color-accent: #a11692;
 }
 
 /* Custom Markdown Styling */

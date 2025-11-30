@@ -20,7 +20,7 @@ const Layout: React.FC = () => {
 
   return (
     // Apply the default sans font (which is now Cairo) and background color
-    <div className="min-h-screen bg-beige text-gray-800 font-cairo">
+    <div className="min-h-screen bg-background text-text font-cairo">
       <Navbar />
       {/* Add padding to the top to account for the fixed navbar */}
       <div className="container mx-auto p-4 pt-20">

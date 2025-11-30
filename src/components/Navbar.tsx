@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, useNavigate, useLocation } from "react-router-dom";
+import { Link, useNavigate, useParams, useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
 const Navbar: React.FC = () => {
@@ -41,7 +41,7 @@ const Navbar: React.FC = () => {
       </div>
       <button
         onClick={() => switchLanguage(i18n.language === "en" ? "ar" : "en")}
-        className="px-3 py-1 border rounded text-gray-800 hover:bg-gray-200"
+        className="px-3 py-1 border rounded text-text bg-background hover:bg-secondary hover:text-background border-primary"
       >
         {t("navbar.switch")}
       </button>
